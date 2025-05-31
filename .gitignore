@@ -1,1 +1,8 @@
+# Ignore Dataset CSVs in another folder
 Dataset/Topic_1n2/*.csv
+
+# Ignore Virtual Environment
+venv/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
