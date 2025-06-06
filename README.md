@@ -7,6 +7,7 @@ Follow the steps :
 - Create a virtual environment :
   * python -m venv venv         --> step to create venv
   * .\venv\Scripts\Activate     --> Activate env
+    If not permitting Run --> "Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass" & same process once again.
   * Add the packages You need to install inside the requirements.txt file.
   * Set the Python Interpreter.
 
